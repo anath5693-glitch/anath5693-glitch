@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:141414,100:0f0f0f&height=200&section=header&text=Arupjyoti%20Nath&fontSize=48&fontColor=C8E6C9&fontAlignY=38&desc=Engineer%20by%20training.%20CMO%20by%20experience.%20AI%20builder%20by%20choice.&descSize=16&descAlignY=60&descColor=888888" width="100%" alt="Arup Nath" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:141414,100:0f0f0f&height=200&section=header&text=Arupjyoti%20Nath&fontSize=48&fontColor=C8E6C9&fontAlignY=38&desc=Engineering%20background.%20Marketing%20accountability.%20AI%20execution.&descSize=16&descAlignY=60&descColor=888888" width="100%" alt="Arup Nath" />
 
 </div>
 
